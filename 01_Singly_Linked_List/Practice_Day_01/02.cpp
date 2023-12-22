@@ -1,6 +1,7 @@
 /*
    Practice Problem 2
-   Take a singly linked list as input and check if the linked list contains any duplicate value. You can assume that the maximum value will be 100.
+   Take a singly linked list as input and check if the linked list contains 
+   any duplicate value. You can assume that the maximum value will be 100.
 
    Sample Input
    5 4 8 6 2 1 -1
