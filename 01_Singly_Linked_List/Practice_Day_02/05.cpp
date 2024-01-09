@@ -1,5 +1,5 @@
 /*
-    Practice Problem 4
+    Practice Problem 5
      Take a singly linked list as input and sort 
      it in descending order. Then print the list.
 
